@@ -2,5 +2,9 @@
     "test1":"testing",
     "test2":"succesegfull",
     "test3":"adding value",
-    "com.whatsapp":"link"
+    "com.whatsapp":"linkSTOCK",
+    "com.fmwhatsapp":"linkFM",
+    "com.yowhatsapp":"linkYO",
+    "com.gbwhatsapp":"linkGB",
+    "com.aero":"linkAERO"
 }
