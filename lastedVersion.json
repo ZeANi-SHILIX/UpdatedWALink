@@ -1,6 +1,14 @@
 {
-    "test1":"testing",
-    "test2":"succesegfull",
+    "test1":{
+        "version": 1.0,
+        "flag": false,
+        "random":"not ok"
+    },
+    "test2":{
+        "version": 2.3,
+        "flag": true,
+        "random":"ok"
+    },
     "test3":"adding value",
     "com.whatsapp":"linkSTOCK",
     "com.fmwhatsapp":"linkFM",
