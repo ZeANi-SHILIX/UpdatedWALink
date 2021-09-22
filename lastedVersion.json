@@ -1,18 +1,56 @@
-{
-    "test1":{
-        "version": 1.6,
-        "flag": false,
+[
+    {
+        "Signature":"com.whatsapp",
+        "VersionFouad": 8.95,
+        "VersionAero": 1.6,
+        "VersionFouadLink": "VersionFouadLink",
+        "VersionAeroLink": "VersionAeroLink",
+        "InstalledFlag": false,
         "random":"not ok"
     },
-    "test2":{
-        "version": 2.3,
-        "flag": true,
-        "random":"ok"
+    {
+        "Signature":"com.fmwhatsapp",
+        "VersionFouad": 8.95,
+        "VersionAero": 1.6,
+        "VersionFouadLink": "VersionFouadLink",
+        "VersionAeroLink": "VersionAeroLink",
+        "InstalledFlag": false,
+        "random":"not ok"
     },
-    "test3":"adding value",
-    "com.whatsapp":"linkSTOCK",
-    "com.fmwhatsapp":"linkFM",
-    "com.yowhatsapp":"linkYO",
-    "com.gbwhatsapp":"linkGB",
-    "com.aero":"linkAERO"
-}
+    {
+        "Signature":"com.yowhatsapp",
+        "VersionFouad": 8.95,
+        "VersionAero": 1.6,
+        "VersionFouadLink": "VersionFouadLink",
+        "VersionAeroLink": "VersionAeroLink",
+        "InstalledFlag": false,
+        "random":"not ok"
+    },
+    {
+        "Signature":"com.gbwhatsapp",
+        "VersionFouad": 8.95,
+        "VersionAero": 1.6,
+        "VersionFouadLink": "VersionFouadLink",
+        "VersionAeroLink": "VersionAeroLink",
+        "InstalledFlag": false,
+        "random":"not ok"
+    },
+    {
+        "Signature":"com.aero",
+        "VersionFouad": 8.95,
+        "VersionAero": 1.6,
+        "VersionFouadLink": "VersionFouadLink",
+        "VersionAeroLink": "VersionAeroLink",
+        "InstalledFlag": false,
+        "random":"not ok"
+    },
+    {
+        "Signature":"com.android.chrome1",
+        "VersionFouad": 8.95,
+        "VersionAero": 1.6,
+        "VersionFouadLink": "VersionFouadLink",
+        "VersionAeroLink": "VersionAeroLink",
+        "InstalledFlag": false,
+        "random":"for testing"
+    }
+]
