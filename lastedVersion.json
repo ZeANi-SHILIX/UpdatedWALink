@@ -43,14 +43,5 @@
         "VersionAeroLink": "VersionAeroLink",
         "InstalledFlag": false,
         "random":"not ok"
-    },
-    {
-        "Signature":"com.android.chrome1",
-        "VersionFouad": 8.95,
-        "VersionAero": 1.6,
-        "VersionFouadLink": "VersionFouadLink",
-        "VersionAeroLink": "VersionAeroLink",
-        "InstalledFlag": false,
-        "random":"for testing"
     }
 ]
