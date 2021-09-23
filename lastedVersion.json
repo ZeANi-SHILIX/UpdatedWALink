@@ -6,7 +6,7 @@
         "VersionFouadLink": "https://t.me/YM_whatsapp/893",
         "VersionAeroLink": "https://t.me/YM_whatsapp/895",
         "InstalledFlag": false,
-        "random":"from cloud"
+        "random":"From Cloud"
     },
     {
         "Signature":"com.fmwhatsapp",
@@ -20,7 +20,7 @@
     {
         "Signature":"com.yowhatsapp",
         "VersionFouad": 8.95,
-        "VersionAero": 1.6,
+        "VersionAero": 8.95,
         "VersionFouadLink": "VersionFouadLink",
         "VersionAeroLink": "VersionAeroLink",
         "InstalledFlag": false,
@@ -29,7 +29,7 @@
     {
         "Signature":"com.gbwhatsapp",
         "VersionFouad": 8.95,
-        "VersionAero": 1.6,
+        "VersionAero": 8.95,
         "VersionFouadLink": "VersionFouadLink",
         "VersionAeroLink": "VersionAeroLink",
         "InstalledFlag": false,
