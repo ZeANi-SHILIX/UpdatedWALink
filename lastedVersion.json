@@ -1,7 +1,7 @@
 [
     {
         "Signature":"com.whatsapp",
-        "VersionFouad": 8.95,
+        "VersionFouad": 8.99,
         "VersionAero": 1.6,
         "VersionFouadLink": "VersionFouadLink",
         "VersionAeroLink": "VersionAeroLink",
@@ -38,7 +38,7 @@
     {
         "Signature":"com.aero",
         "VersionFouad": 8.95,
-        "VersionAero": 1.6,
+        "VersionAero": 9.03,
         "VersionFouadLink": "VersionFouadLink",
         "VersionAeroLink": "VersionAeroLink",
         "InstalledFlag": false,
