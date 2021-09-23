@@ -1,18 +1,18 @@
 [
     {
         "Signature":"com.whatsapp",
-        "VersionFouad": 8.99,
-        "VersionAero": 1.6,
-        "VersionFouadLink": "VersionFouadLink",
-        "VersionAeroLink": "VersionAeroLink",
+        "VersionFouad": 8.95,
+        "VersionAero": 8.95,
+        "VersionFouadLink": "https://t.me/YM_whatsapp/893",
+        "VersionAeroLink": "https://t.me/YM_whatsapp/895",
         "InstalledFlag": false,
         "random":"from cloud"
     },
     {
         "Signature":"com.fmwhatsapp",
         "VersionFouad": 8.95,
-        "VersionAero": 1.6,
-        "VersionFouadLink": "VersionFouadLink",
+        "VersionAero": 8.95,
+        "VersionFouadLink": "https://t.me/YM_whatsapp/892",
         "VersionAeroLink": "VersionAeroLink",
         "InstalledFlag": false,
         "random":"not ok"
@@ -38,9 +38,9 @@
     {
         "Signature":"com.aero",
         "VersionFouad": 8.95,
-        "VersionAero": 9.03,
+        "VersionAero": 8.95,
         "VersionFouadLink": "VersionFouadLink",
-        "VersionAeroLink": "VersionAeroLink",
+        "VersionAeroLink": "https://t.me/YM_whatsapp/896",
         "InstalledFlag": false,
         "random":"not ok"
     }
