@@ -2,18 +2,18 @@
     {
         "Signature":"com.whatsapp",
         "VersionFouad": 9.05,
-        "VersionAero": 8.95,
+        "VersionAero": 9.05,
         "VersionFouadLink": "https://t.me/YM_whatsapp/905?single",
-        "VersionAeroLink": "https://t.me/YM_whatsapp/895",
+        "VersionAeroLink": "https://t.me/ezraWhatsapp/98633",
         "InstalledFlag": false,
         "random":"From Cloud"
     },
     {
         "Signature":"com.whatsapp.w4b",
         "VersionFouad": 9.05,
-        "VersionAero": 8.95,
+        "VersionAero": 9.05,
         "VersionFouadLink": "https://t.me/YM_whatsapp/893",
-        "VersionAeroLink": "https://t.me/YM_whatsapp/895",
+        "VersionAeroLink": "https://t.me/ezraWhatsapp",
         "InstalledFlag": false,
         "random":"business"
     },
@@ -46,10 +46,10 @@
     },
     {
         "Signature":"com.aero",
-        "VersionFouad": 8.95,
-        "VersionAero": 8.95,
+        "VersionFouad": 9.05,
+        "VersionAero": 9.05,
         "VersionFouadLink": "VersionFouadLink",
-        "VersionAeroLink": "https://t.me/YM_whatsapp/896",
+        "VersionAeroLink": "https://t.me/ezraWhatsapp/98635",
         "InstalledFlag": false,
         "random":"not ok"
     }
