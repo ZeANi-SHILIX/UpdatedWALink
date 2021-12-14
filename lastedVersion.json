@@ -1,55 +1,55 @@
 [
     {
         "Signature":"com.whatsapp",
-        "VersionFouad": 9.05,
-        "VersionAero": 9.05,
-        "VersionFouadLink": "https://t.me/YM_whatsapp/905?single",
-        "VersionAeroLink": "https://t.me/ezraWhatsapp/98633",
+        "VersionFouad": 9.10,
+        "VersionAero": 9.10,
+        "VersionFouadLink": "https://t.me/YM_whatsapp/913?single",
+        "VersionAeroLink": "https://t.me/ezraWhatsapp/99261",
         "InstalledFlag": false,
         "random":"From Cloud"
     },
     {
         "Signature":"com.whatsapp.w4b",
-        "VersionFouad": 9.05,
-        "VersionAero": 9.05,
-        "VersionFouadLink": "https://t.me/YM_whatsapp/893",
-        "VersionAeroLink": "https://t.me/ezraWhatsapp",
+        "VersionFouad": 9.10,
+        "VersionAero": 9.10,
+        "VersionFouadLink": "https://fmmods.com/fouad-whatsapp/",
+        "VersionAeroLink": "https://fmmods.com/fouad-whatsapp/",
         "InstalledFlag": false,
         "random":"business"
     },
     {
         "Signature":"com.fmwhatsapp",
-        "VersionFouad": 9.05,
-        "VersionAero": 9.05,
-        "VersionFouadLink": "https://t.me/YM_whatsapp/906?single",
+        "VersionFouad": 9.10,
+        "VersionAero": 9.10,
+        "VersionFouadLink": "https://t.me/YM_whatsapp/914?single",
         "VersionAeroLink": "VersionAeroLink",
         "InstalledFlag": false,
         "random":"not ok"
     },
     {
         "Signature":"com.yowhatsapp",
-        "VersionFouad": 9.05,
-        "VersionAero": 9.05,
-        "VersionFouadLink": "https://t.me/ezraWhatsapp/95730",
+        "VersionFouad": 9.10,
+        "VersionAero": 9.10,
+        "VersionFouadLink": "https://t.me/OficialWamods/2139?single",
         "VersionAeroLink": "VersionAeroLink",
         "InstalledFlag": false,
         "random":"not ok"
     },
     {
         "Signature":"com.gbwhatsapp",
-        "VersionFouad": 9.05,
-        "VersionAero": 8.95,
-        "VersionFouadLink": "VersionFouadLink",
+        "VersionFouad": 9.10,
+        "VersionAero": 9.10,
+        "VersionFouadLink": "https://t.me/OficialWamods/2138?single",
         "VersionAeroLink": "VersionAeroLink",
         "InstalledFlag": false,
         "random":"not ok"
     },
     {
         "Signature":"com.aero",
-        "VersionFouad": 9.05,
-        "VersionAero": 9.05,
+        "VersionFouad": 9.10,
+        "VersionAero": 9.10,
         "VersionFouadLink": "VersionFouadLink",
-        "VersionAeroLink": "https://t.me/ezraWhatsapp/98635",
+        "VersionAeroLink": "https://t.me/YM_whatsapp/916",
         "InstalledFlag": false,
         "random":"not ok"
     }
