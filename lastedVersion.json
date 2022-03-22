@@ -1,55 +1,55 @@
 [
     {
         "Signature":"com.whatsapp",
-        "VersionFouad": 9.21,
-        "VersionAero": 9.22,
-        "VersionFouadLink": "https://t.me/YM_whatsapp/931",
-        "VersionAeroLink": "https://t.me/YM_whatsapp/937",
+        "VersionFouad": 9.25,
+        "VersionAero": 9.25,
+        "VersionFouadLink": "https://t.me/YM_whatsapp/943",
+        "VersionAeroLink": "https://t.me/YM_whatsapp/949",
         "InstalledFlag": false,
         "random":"From Cloud"
     },
     {
         "Signature":"com.whatsapp.w4b",
-        "VersionFouad": 9.21,
-        "VersionAero": 9.21,
-        "VersionFouadLink": "https://fmmods.com/fouad-whatsapp/",
-        "VersionAeroLink": "https://fmmods.com/fouad-whatsapp/",
+        "VersionFouad": 9.25,
+        "VersionAero": 9.25,
+        "VersionFouadLink": "http://Down.fouadmods.com",
+        "VersionAeroLink": "http://Down.fouadmods.com",
         "InstalledFlag": false,
         "random":"business"
     },
     {
         "Signature":"com.fmwhatsapp",
-        "VersionFouad": 9.21,
-        "VersionAero": 9.21,
-        "VersionFouadLink": "https://t.me/YM_whatsapp/932",
+        "VersionFouad": 9.25,
+        "VersionAero": 9.25,
+        "VersionFouadLink": "https://t.me/YM_whatsapp/944",
         "VersionAeroLink": "VersionAeroLink",
         "InstalledFlag": false,
         "random":"not ok"
     },
     {
         "Signature":"com.yowhatsapp",
-        "VersionFouad": 9.21,
-        "VersionAero": 9.21,
-        "VersionFouadLink": "https://t.me/OficialWamods/2335?single",
+        "VersionFouad": 9.25,
+        "VersionAero": 9.25,
+        "VersionFouadLink": "http://Down.fouadmods.com",
         "VersionAeroLink": "VersionAeroLink",
         "InstalledFlag": false,
         "random":"not ok"
     },
     {
         "Signature":"com.gbwhatsapp",
-        "VersionFouad": 9.21,
-        "VersionAero": 9.21,
-        "VersionFouadLink": "https://t.me/OficialWamods/2334?single",
+        "VersionFouad": 9.25,
+        "VersionAero": 9.25,
+        "VersionFouadLink": "http://Down.fouadmods.com",
         "VersionAeroLink": "VersionAeroLink",
         "InstalledFlag": false,
         "random":"not ok"
     },
     {
         "Signature":"com.aero",
-        "VersionFouad": 9.22,
-        "VersionAero": 9.22,
+        "VersionFouad": 9.25,
+        "VersionAero": 9.25,
         "VersionFouadLink": "VersionFouadLink",
-        "VersionAeroLink": "https://t.me/YM_whatsapp/938",
+        "VersionAeroLink": "https://t.me/YM_whatsapp/950",
         "InstalledFlag": false,
         "random":"not ok"
     }
