@@ -6,7 +6,7 @@
         "VersionFouadLink": "https://t.me/YM_whatsapp/960",
         "VersionAeroLink": "https://t.me/YM_whatsapp/963",
         "InstalledFlag": false,
-        "random":"From Cloud"
+        "InstalledFromStore": false
     },
     {
         "Signature":"com.whatsapp.w4b",
@@ -15,7 +15,7 @@
         "VersionFouadLink": "http://Down.fouadmods.com",
         "VersionAeroLink": "http://Down.fouadmods.com",
         "InstalledFlag": false,
-        "random":"business"
+        "InstalledFromStore": false
     },
     {
         "Signature":"com.fmwhatsapp",
@@ -24,7 +24,7 @@
         "VersionFouadLink": "https://t.me/YM_whatsapp/959",
         "VersionAeroLink": "VersionAeroLink",
         "InstalledFlag": false,
-        "random":"not ok"
+        "InstalledFromStore": false
     },
     {
         "Signature":"com.yowhatsapp",
@@ -33,7 +33,7 @@
         "VersionFouadLink": "http://Down.fouadmods.com",
         "VersionAeroLink": "VersionAeroLink",
         "InstalledFlag": false,
-        "random":"not ok"
+        "InstalledFromStore": false
     },
     {
         "Signature":"com.gbwhatsapp",
@@ -42,7 +42,7 @@
         "VersionFouadLink": "http://Down.fouadmods.com",
         "VersionAeroLink": "VersionAeroLink",
         "InstalledFlag": false,
-        "random":"not ok"
+        "InstalledFromStore": false
     },
     {
         "Signature":"com.aero",
@@ -51,6 +51,6 @@
         "VersionFouadLink": "VersionFouadLink",
         "VersionAeroLink": "https://t.me/YM_whatsapp/962",
         "InstalledFlag": false,
-        "random":"not ok"
+        "InstalledFromStore": false
     }
 ]
