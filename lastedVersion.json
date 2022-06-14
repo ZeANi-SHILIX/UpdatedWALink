@@ -1,10 +1,10 @@
 [
     {
         "Signature":"com.whatsapp",
-        "VersionFouad": 9.30,
+        "VersionFouad": 9.301,
         "VersionAero": 9.30,
         "VersionYM": 23.5,
-        "VersionFouadLink": "https://t.me/YM_whatsapp/969",
+        "VersionFouadLink": "https://t.me/YM_whatsapp/977",
         "VersionAeroLink": "https://t.me/YM_whatsapp/974",
         "VersionYMLink": "https://ymwhatsapp.com",
         "InstalledFlag": false,
@@ -17,16 +17,16 @@
         "VersionYM": 15.0,
         "VersionFouadLink": "http://Down.fouadmods.com",
         "VersionAeroLink": "http://Down.fouadmods.com",
-        "VersionYMLink": "https://ymwhatsapp.com",
+        "VersionYMLink": "https://ymwhatsapp.com/ymwa-business",
         "InstalledFlag": false,
         "InstalledFromStore": false
     },
     {
         "Signature":"com.fmwhatsapp",
-        "VersionFouad": 9.30,
+        "VersionFouad": 9.301,
         "VersionAero": 9.30,
         "VersionYM": 23.5,
-        "VersionFouadLink": "https://t.me/YM_whatsapp/972",
+        "VersionFouadLink": "https://t.me/YM_whatsapp/978",
         "VersionAeroLink": "VersionAeroLink",
         "VersionYMLink": "https://ymwhatsapp.com",
         "InstalledFlag": false,
@@ -34,7 +34,7 @@
     },
     {
         "Signature":"com.yowhatsapp",
-        "VersionFouad": 9.30,
+        "VersionFouad": 9.301,
         "VersionAero": 9.30,
         "VersionYM": 23.5,
         "VersionFouadLink": "http://Down.fouadmods.com",
@@ -45,7 +45,7 @@
     },
     {
         "Signature":"com.gbwhatsapp",
-        "VersionFouad": 9.30,
+        "VersionFouad": 9.301,
         "VersionAero": 9.30,
         "VersionYM": 23.5,
         "VersionFouadLink": "http://Down.fouadmods.com",
