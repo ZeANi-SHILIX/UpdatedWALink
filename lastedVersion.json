@@ -1,10 +1,10 @@
 [
     {
         "Signature":"com.whatsapp",
-        "VersionFouad": 9.52,
+        "VersionFouad": 9.60,
         "VersionAero": 9.53,
         "VersionYM": 23.5,
-        "VersionFouadLink": "https://t.me/YM_whatsapp/1021",
+        "VersionFouadLink": "https://t.me/YM_whatsapp/1032",
         "VersionAeroLink": "https://t.me/YM_whatsapp/1026",
         "VersionYMLink": "https://ymwhatsapp.com",
         "InstalledFlag": false,
@@ -12,8 +12,8 @@
     },
     {
         "Signature":"com.whatsapp.w4b",
-        "VersionFouad": 9.52,
-        "VersionAero": 9.52,
+        "VersionFouad": 9.60,
+        "VersionAero": 9.60,
         "VersionYM": 17.0,
         "VersionFouadLink": "http://Down.fouadmods.com",
         "VersionAeroLink": "http://Down.fouadmods.com",
@@ -23,10 +23,10 @@
     },
     {
         "Signature":"com.fmwhatsapp",
-        "VersionFouad": 9.52,
-        "VersionAero": 9.52,
+        "VersionFouad": 9.60,
+        "VersionAero": 9.60,
         "VersionYM": 23.5,
-        "VersionFouadLink": "https://t.me/YM_whatsapp/1020",
+        "VersionFouadLink": "https://t.me/YM_whatsapp/1033",
         "VersionAeroLink": "VersionAeroLink",
         "VersionYMLink": "https://ymwhatsapp.com",
         "InstalledFlag": false,
@@ -34,8 +34,8 @@
     },
     {
         "Signature":"com.yowhatsapp",
-        "VersionFouad": 9.52,
-        "VersionAero": 9.52,
+        "VersionFouad": 9.60,
+        "VersionAero": 9.60,
         "VersionYM": 23.5,
         "VersionFouadLink": "http://Down.fouadmods.com",
         "VersionAeroLink": "VersionAeroLink",
@@ -45,8 +45,8 @@
     },
     {
         "Signature":"com.gbwhatsapp",
-        "VersionFouad": 9.52,
-        "VersionAero": 9.52,
+        "VersionFouad": 9.60,
+        "VersionAero": 9.60,
         "VersionYM": 23.5,
         "VersionFouadLink": "http://Down.fouadmods.com",
         "VersionAeroLink": "VersionAeroLink",
@@ -56,7 +56,7 @@
     },
     {
         "Signature":"com.aero",
-        "VersionFouad": 9.53,
+        "VersionFouad": 9.60,
         "VersionAero": 9.53,
         "VersionYM": 23.5,
         "VersionFouadLink": "VersionFouadLink",
