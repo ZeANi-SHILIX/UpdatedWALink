@@ -4,4 +4,3 @@ This file used in the [CheckWhatsAppSign](https://github.com/ZeANi-SHILIX/CheckW
 <br/>
 ## Thanks
 [Ori-rund](http://github.com/ori-rund) - Editing the file and keep it updated.
-[yosii12](https://github.com/yosii12) - Editing the file and keep it updated.
